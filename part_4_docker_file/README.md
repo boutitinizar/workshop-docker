@@ -1,4 +1,4 @@
-## Part 3: Dockerfile
+## Part 4: Dockerfile
 ## Exercise 1 : 
 * Create a Dockerfile based on alpine 3.3
 * Define an environment variable workdir that points to  /home/workspace
