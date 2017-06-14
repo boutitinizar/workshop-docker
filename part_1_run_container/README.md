@@ -9,15 +9,18 @@
 * Write 'Hello sfeir school!' with a container in daemon mode.
 
 ## Exercise 4 : 
-* List locally running containers on the system.
+* Fetch the logs of the last created container
 
 ## Exercise 5 : 
-* List all of the locally containers.
+* List locally running containers on the system.
 
 ## Exercise 6 : 
-* Stop, start, restart a container.
+* List all of the locally containers.
 
 ## Exercise 7 : 
-* SDelete all containers.
+* Stop, start, restart a container.
+
+## Exercise 8 : 
+* Delete all containers.
 
 ## [Solution](solution)
